@@ -9,9 +9,10 @@
 
 Traditional video-induced physiological datasets predominantly rely on coarse, whole-trial labels, which introduce **Temporal Label Noise**. To bridge this gap, we present **FIRMED** (Fine-grained Immediate Recall-based Multimodal Emotion Dataset). 
 <p align="center">
-  <img src="./imgs/experiment_process.pdf" width="800" alt="Experimental paradigm for FIRMED">
+  <img src="./imgs/experiment_process.jpg" width="800" alt="Experimental paradigm for FIRMED">
   <br>
-  <em>Figure 1: Experimental paradigm for FIRMED data collection, encompassing the multi-session design, trial timeline (baseline, stimulus, immediate recall replay, rest), multimodal signal acquisition, and the multi-dimensional annotation structure.</em>
+  <em>Figure 1: Experimental paradigm for FIRMED data collection, encompassing the multi-session design, trial timeline (baseline, stimulus, 
+    immediate recall replay, rest), multimodal signal acquisition, and the multi-dimensional annotation structure.</em>
 </p>
 
 Instead of assigning a single global label to an entire trial, FIRMED utilizes a novel **Immediate-Recall annotation paradigm**. Participants report their self-perceived emotional peaks immediately following stimulus exposure, yielding precise event-centered timestamps ($t_{event}$) for temporally localized supervision.
