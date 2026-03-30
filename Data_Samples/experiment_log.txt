@@ -1,0 +1,418 @@
+实验日志（时间）
+2025-09-29 14:50:10.379: 开始基线测量 10 秒
+2025-09-29 14:52:25.386: 基线测量开始
+2025-09-29 14:52:35.548: 基线测量完成
+2025-09-29 14:52:35.626: Start playing D:\Emotion_Experiment\exp_session_li\01.mp4 (stimulus mode)
+2025-09-29 14:53:40.277: End playing D:\Emotion_Experiment\exp_session_li\01.mp4 (stimulus mode)
+2025-09-29 14:53:40.279: 等待鼠标点击重新播放视频
+2025-09-29 14:53:43.178: 开始标注模式播放
+2025-09-29 14:53:44.251: Start playing D:\Emotion_Experiment\exp_session_li\01.mp4 (annotation mode)
+2025-09-29 14:54:40.442: Stop video replay
+2025-09-29 14:54:40.442: End playing D:\Emotion_Experiment\exp_session_li\01.mp4 (annotation mode)
+2025-09-29 14:54:40.449: 开始15秒休息
+2025-09-29 14:54:40.449: 休息时间 15 秒
+2025-09-29 14:54:55.484: 休息时间结束
+2025-09-29 14:54:55.484: 休息结束
+2025-09-29 14:54:55.484: 开始基线测量 10 秒
+2025-09-29 14:54:58.882: 基线测量开始
+2025-09-29 14:55:08.907: 基线测量完成
+2025-09-29 14:55:08.976: Start playing D:\Emotion_Experiment\exp_session_li\02.mp4 (stimulus mode)
+2025-09-29 14:56:09.623: End playing D:\Emotion_Experiment\exp_session_li\02.mp4 (stimulus mode)
+2025-09-29 14:56:09.624: 等待鼠标点击重新播放视频
+2025-09-29 14:56:11.899: 开始标注模式播放
+2025-09-29 14:56:12.968: Start playing D:\Emotion_Experiment\exp_session_li\02.mp4 (annotation mode)
+2025-09-29 14:56:31.221: Stop video replay
+2025-09-29 14:56:31.221: End playing D:\Emotion_Experiment\exp_session_li\02.mp4 (annotation mode)
+2025-09-29 14:56:31.227: 开始15秒休息
+2025-09-29 14:56:31.227: 休息时间 15 秒
+2025-09-29 14:56:46.260: 休息时间结束
+2025-09-29 14:56:46.260: 休息结束
+2025-09-29 14:56:46.260: 开始基线测量 10 秒
+2025-09-29 14:56:48.994: 基线测量开始
+2025-09-29 14:56:59.021: 基线测量完成
+2025-09-29 14:56:59.090: Start playing D:\Emotion_Experiment\exp_session_li\03.mp4 (stimulus mode)
+2025-09-29 14:58:00.239: End playing D:\Emotion_Experiment\exp_session_li\03.mp4 (stimulus mode)
+2025-09-29 14:58:00.241: 等待鼠标点击重新播放视频
+2025-09-29 14:58:02.475: 开始标注模式播放
+2025-09-29 14:58:03.548: Start playing D:\Emotion_Experiment\exp_session_li\03.mp4 (annotation mode)
+2025-09-29 14:59:00.668: Stop video replay
+2025-09-29 14:59:00.668: End playing D:\Emotion_Experiment\exp_session_li\03.mp4 (annotation mode)
+2025-09-29 14:59:00.673: 开始15秒休息
+2025-09-29 14:59:00.674: 休息时间 15 秒
+2025-09-29 14:59:15.710: 休息时间结束
+2025-09-29 14:59:15.710: 休息结束
+2025-09-29 14:59:15.710: 开始基线测量 10 秒
+2025-09-29 14:59:21.226: 基线测量开始
+2025-09-29 14:59:31.253: 基线测量完成
+2025-09-29 14:59:31.328: Start playing D:\Emotion_Experiment\exp_session_li\04.mp4 (stimulus mode)
+2025-09-29 15:00:31.973: End playing D:\Emotion_Experiment\exp_session_li\04.mp4 (stimulus mode)
+2025-09-29 15:00:31.974: 等待鼠标点击重新播放视频
+2025-09-29 15:00:34.746: 开始标注模式播放
+2025-09-29 15:00:35.821: Start playing D:\Emotion_Experiment\exp_session_li\04.mp4 (annotation mode)
+2025-09-29 15:01:07.523: Stop video replay
+2025-09-29 15:01:07.523: End playing D:\Emotion_Experiment\exp_session_li\04.mp4 (annotation mode)
+2025-09-29 15:01:07.529: 开始15秒休息
+2025-09-29 15:01:07.530: 休息时间 15 秒
+2025-09-29 15:01:22.566: 休息时间结束
+2025-09-29 15:01:22.566: 休息结束
+2025-09-29 15:01:22.566: 开始基线测量 10 秒
+2025-09-29 15:01:27.114: 基线测量开始
+2025-09-29 15:01:37.141: 基线测量完成
+2025-09-29 15:01:37.213: Start playing D:\Emotion_Experiment\exp_session_li\05.mp4 (stimulus mode)
+2025-09-29 15:02:37.862: End playing D:\Emotion_Experiment\exp_session_li\05.mp4 (stimulus mode)
+2025-09-29 15:02:37.864: 等待鼠标点击重新播放视频
+2025-09-29 15:02:40.546: 开始标注模式播放
+2025-09-29 15:02:41.623: Start playing D:\Emotion_Experiment\exp_session_li\05.mp4 (annotation mode)
+2025-09-29 15:03:48.502: Stop video replay
+2025-09-29 15:03:48.502: End playing D:\Emotion_Experiment\exp_session_li\05.mp4 (annotation mode)
+2025-09-29 15:03:48.509: 开始15秒休息
+2025-09-29 15:03:48.509: 休息时间 15 秒
+2025-09-29 15:04:03.547: 休息时间结束
+2025-09-29 15:04:03.548: 休息结束
+2025-09-29 15:04:03.548: 开始基线测量 10 秒
+2025-09-29 15:04:05.634: 基线测量开始
+2025-09-29 15:04:15.660: 基线测量完成
+2025-09-29 15:04:15.733: Start playing D:\Emotion_Experiment\exp_session_li\06.mp4 (stimulus mode)
+2025-09-29 15:05:16.383: End playing D:\Emotion_Experiment\exp_session_li\06.mp4 (stimulus mode)
+2025-09-29 15:05:16.385: 等待鼠标点击重新播放视频
+2025-09-29 15:05:17.658: 开始标注模式播放
+2025-09-29 15:05:18.734: Start playing D:\Emotion_Experiment\exp_session_li\06.mp4 (annotation mode)
+2025-09-29 15:05:50.445: Stop video replay
+2025-09-29 15:05:50.446: End playing D:\Emotion_Experiment\exp_session_li\06.mp4 (annotation mode)
+2025-09-29 15:05:50.454: 开始15秒休息
+2025-09-29 15:05:50.454: 休息时间 15 秒
+2025-09-29 15:06:05.488: 休息时间结束
+2025-09-29 15:06:05.488: 休息结束
+2025-09-29 15:06:05.488: 开始基线测量 10 秒
+2025-09-29 15:06:08.475: 基线测量开始
+2025-09-29 15:06:18.503: 基线测量完成
+2025-09-29 15:06:18.580: Start playing D:\Emotion_Experiment\exp_session_li\07.mp4 (stimulus mode)
+2025-09-29 15:07:20.731: End playing D:\Emotion_Experiment\exp_session_li\07.mp4 (stimulus mode)
+2025-09-29 15:07:20.733: 等待鼠标点击重新播放视频
+2025-09-29 15:07:23.899: 开始标注模式播放
+2025-09-29 15:07:24.973: Start playing D:\Emotion_Experiment\exp_session_li\07.mp4 (annotation mode)
+2025-09-29 15:07:29.673: Stop video replay
+2025-09-29 15:07:29.674: End playing D:\Emotion_Experiment\exp_session_li\07.mp4 (annotation mode)
+2025-09-29 15:07:29.686: 开始15秒休息
+2025-09-29 15:07:29.686: 休息时间 15 秒
+2025-09-29 15:07:44.719: 休息时间结束
+2025-09-29 15:07:44.720: 休息结束
+2025-09-29 15:07:44.720: 开始基线测量 10 秒
+2025-09-29 15:07:47.283: 基线测量开始
+2025-09-29 15:07:57.312: 基线测量完成
+2025-09-29 15:07:57.385: Start playing D:\Emotion_Experiment\exp_session_li\08.mp4 (stimulus mode)
+2025-09-29 15:09:08.538: End playing D:\Emotion_Experiment\exp_session_li\08.mp4 (stimulus mode)
+2025-09-29 15:09:08.540: 等待鼠标点击重新播放视频
+2025-09-29 15:09:11.075: 开始标注模式播放
+2025-09-29 15:09:12.149: Start playing D:\Emotion_Experiment\exp_session_li\08.mp4 (annotation mode)
+2025-09-29 15:09:28.397: Stop video replay
+2025-09-29 15:09:28.397: End playing D:\Emotion_Experiment\exp_session_li\08.mp4 (annotation mode)
+2025-09-29 15:09:28.405: 开始15秒休息
+2025-09-29 15:09:28.405: 休息时间 15 秒
+2025-09-29 15:09:43.440: 休息时间结束
+2025-09-29 15:09:43.440: 休息结束
+2025-09-29 15:09:43.440: 开始基线测量 10 秒
+2025-09-29 15:09:46.091: 基线测量开始
+2025-09-29 15:09:56.120: 基线测量完成
+2025-09-29 15:09:56.194: Start playing D:\Emotion_Experiment\exp_session_li\09.mp4 (stimulus mode)
+2025-09-29 15:11:00.850: End playing D:\Emotion_Experiment\exp_session_li\09.mp4 (stimulus mode)
+2025-09-29 15:11:00.853: 等待鼠标点击重新播放视频
+2025-09-29 15:11:01.995: 开始标注模式播放
+2025-09-29 15:11:03.075: Start playing D:\Emotion_Experiment\exp_session_li\09.mp4 (annotation mode)
+2025-09-29 15:11:40.668: Stop video replay
+2025-09-29 15:11:40.668: End playing D:\Emotion_Experiment\exp_session_li\09.mp4 (annotation mode)
+2025-09-29 15:11:40.675: 开始15秒休息
+2025-09-29 15:11:40.675: 休息时间 15 秒
+2025-09-29 15:11:55.713: 休息时间结束
+2025-09-29 15:11:55.714: 休息结束
+2025-09-29 15:11:55.714: 开始基线测量 10 秒
+2025-09-29 15:11:59.739: 基线测量开始
+2025-09-29 15:12:09.768: 基线测量完成
+2025-09-29 15:12:09.846: Start playing D:\Emotion_Experiment\exp_session_li\10.mp4 (stimulus mode)
+2025-09-29 15:13:10.495: End playing D:\Emotion_Experiment\exp_session_li\10.mp4 (stimulus mode)
+2025-09-29 15:13:10.498: 等待鼠标点击重新播放视频
+2025-09-29 15:13:12.635: 开始标注模式播放
+2025-09-29 15:13:13.713: Start playing D:\Emotion_Experiment\exp_session_li\10.mp4 (annotation mode)
+2025-09-29 15:14:30.232: Stop video replay
+2025-09-29 15:14:30.233: End playing D:\Emotion_Experiment\exp_session_li\10.mp4 (annotation mode)
+2025-09-29 15:14:30.240: 开始15秒休息
+2025-09-29 15:14:30.240: 休息时间 15 秒
+2025-09-29 15:14:45.277: 休息时间结束
+2025-09-29 15:14:45.278: 休息结束
+2025-09-29 15:14:45.278: 开始基线测量 10 秒
+2025-09-29 15:14:50.099: 基线测量开始
+2025-09-29 15:15:00.128: 基线测量完成
+2025-09-29 15:15:00.208: Start playing D:\Emotion_Experiment\exp_session_li\11.mp4 (stimulus mode)
+2025-09-29 15:16:02.861: End playing D:\Emotion_Experiment\exp_session_li\11.mp4 (stimulus mode)
+2025-09-29 15:16:02.864: 等待鼠标点击重新播放视频
+2025-09-29 15:16:05.187: 开始标注模式播放
+2025-09-29 15:16:06.266: Start playing D:\Emotion_Experiment\exp_session_li\11.mp4 (annotation mode)
+2025-09-29 15:16:55.449: Stop video replay
+2025-09-29 15:16:55.449: End playing D:\Emotion_Experiment\exp_session_li\11.mp4 (annotation mode)
+2025-09-29 15:16:55.456: 开始15秒休息
+2025-09-29 15:16:55.456: 休息时间 15 秒
+2025-09-29 15:17:10.493: 休息时间结束
+2025-09-29 15:17:10.493: 休息结束
+2025-09-29 15:17:10.493: 开始基线测量 10 秒
+2025-09-29 15:17:12.595: 基线测量开始
+2025-09-29 15:17:22.621: 基线测量完成
+2025-09-29 15:17:22.697: Start playing D:\Emotion_Experiment\exp_session_li\12.mp4 (stimulus mode)
+2025-09-29 15:18:34.355: End playing D:\Emotion_Experiment\exp_session_li\12.mp4 (stimulus mode)
+2025-09-29 15:18:34.357: 等待鼠标点击重新播放视频
+2025-09-29 15:18:36.683: 开始标注模式播放
+2025-09-29 15:18:37.762: Start playing D:\Emotion_Experiment\exp_session_li\12.mp4 (annotation mode)
+2025-09-29 15:18:43.993: Stop video replay
+2025-09-29 15:18:43.994: End playing D:\Emotion_Experiment\exp_session_li\12.mp4 (annotation mode)
+2025-09-29 15:18:44.001: 开始15秒休息
+2025-09-29 15:18:44.001: 休息时间 15 秒
+2025-09-29 15:18:59.037: 休息时间结束
+2025-09-29 15:18:59.037: 休息结束
+2025-09-29 15:18:59.037: 开始基线测量 10 秒
+2025-09-29 15:19:01.483: 基线测量开始
+2025-09-29 15:19:11.509: 基线测量完成
+2025-09-29 15:19:11.588: Start playing D:\Emotion_Experiment\exp_session_li\13.mp4 (stimulus mode)
+2025-09-29 15:20:13.250: End playing D:\Emotion_Experiment\exp_session_li\13.mp4 (stimulus mode)
+2025-09-29 15:20:13.252: 等待鼠标点击重新播放视频
+2025-09-29 15:20:15.459: 开始标注模式播放
+2025-09-29 15:20:16.537: Start playing D:\Emotion_Experiment\exp_session_li\13.mp4 (annotation mode)
+2025-09-29 15:21:33.424: Stop video replay
+2025-09-29 15:21:33.425: End playing D:\Emotion_Experiment\exp_session_li\13.mp4 (annotation mode)
+2025-09-29 15:21:33.432: 开始15秒休息
+2025-09-29 15:21:33.432: 休息时间 15 秒
+2025-09-29 15:21:48.470: 休息时间结束
+2025-09-29 15:21:48.470: 休息结束
+2025-09-29 15:21:48.470: 开始基线测量 10 秒
+2025-09-29 15:21:51.699: 基线测量开始
+2025-09-29 15:22:01.730: 基线测量完成
+2025-09-29 15:22:01.810: Start playing D:\Emotion_Experiment\exp_session_li\14.mp4 (stimulus mode)
+2025-09-29 15:23:04.465: End playing D:\Emotion_Experiment\exp_session_li\14.mp4 (stimulus mode)
+2025-09-29 15:23:04.467: 等待鼠标点击重新播放视频
+2025-09-29 15:23:07.363: 开始标注模式播放
+2025-09-29 15:23:08.442: Start playing D:\Emotion_Experiment\exp_session_li\14.mp4 (annotation mode)
+2025-09-29 15:24:09.052: Stop video replay
+2025-09-29 15:24:09.052: End playing D:\Emotion_Experiment\exp_session_li\14.mp4 (annotation mode)
+2025-09-29 15:24:09.060: 开始15秒休息
+2025-09-29 15:24:09.060: 休息时间 15 秒
+2025-09-29 15:24:24.098: 休息时间结束
+2025-09-29 15:24:24.098: 休息结束
+2025-09-29 15:24:24.098: 开始基线测量 10 秒
+2025-09-29 15:24:27.531: 基线测量开始
+2025-09-29 15:24:37.560: 基线测量完成
+2025-09-29 15:24:37.637: Start playing D:\Emotion_Experiment\exp_session_li\15.mp4 (stimulus mode)
+2025-09-29 15:25:40.791: End playing D:\Emotion_Experiment\exp_session_li\15.mp4 (stimulus mode)
+2025-09-29 15:25:40.793: 等待鼠标点击重新播放视频
+2025-09-29 15:25:42.099: 开始标注模式播放
+2025-09-29 15:25:43.179: Start playing D:\Emotion_Experiment\exp_session_li\15.mp4 (annotation mode)
+2025-09-29 15:26:30.105: Stop video replay
+2025-09-29 15:26:30.105: End playing D:\Emotion_Experiment\exp_session_li\15.mp4 (annotation mode)
+2025-09-29 15:26:30.115: 开始15秒休息
+2025-09-29 15:26:30.115: 休息时间 15 秒
+2025-09-29 15:26:45.151: 休息时间结束
+2025-09-29 15:26:45.151: 休息结束
+2025-09-29 15:26:45.151: 开始基线测量 10 秒
+2025-09-29 15:26:48.827: 基线测量开始
+2025-09-29 15:26:58.857: 基线测量完成
+2025-09-29 15:26:58.936: Start playing D:\Emotion_Experiment\exp_session_li\16.mp4 (stimulus mode)
+2025-09-29 15:28:08.599: End playing D:\Emotion_Experiment\exp_session_li\16.mp4 (stimulus mode)
+2025-09-29 15:28:08.601: 等待鼠标点击重新播放视频
+2025-09-29 15:28:10.219: 开始标注模式播放
+2025-09-29 15:28:11.306: Start playing D:\Emotion_Experiment\exp_session_li\16.mp4 (annotation mode)
+2025-09-29 15:29:16.224: Stop video replay
+2025-09-29 15:29:16.224: End playing D:\Emotion_Experiment\exp_session_li\16.mp4 (annotation mode)
+2025-09-29 15:29:16.232: 开始15秒休息
+2025-09-29 15:29:16.232: 休息时间 15 秒
+2025-09-29 15:29:31.270: 休息时间结束
+2025-09-29 15:29:31.271: 休息结束
+2025-09-29 15:29:31.271: 开始基线测量 10 秒
+2025-09-29 15:29:33.283: 基线测量开始
+2025-09-29 15:29:43.312: 基线测量完成
+2025-09-29 15:29:43.394: Start playing D:\Emotion_Experiment\exp_session_li\17.mp4 (stimulus mode)
+2025-09-29 15:30:47.556: End playing D:\Emotion_Experiment\exp_session_li\17.mp4 (stimulus mode)
+2025-09-29 15:30:47.558: 等待鼠标点击重新播放视频
+2025-09-29 15:30:50.579: 开始标注模式播放
+2025-09-29 15:30:51.662: Start playing D:\Emotion_Experiment\exp_session_li\17.mp4 (annotation mode)
+2025-09-29 15:31:57.342: Stop video replay
+2025-09-29 15:31:57.342: End playing D:\Emotion_Experiment\exp_session_li\17.mp4 (annotation mode)
+2025-09-29 15:31:57.351: 开始15秒休息
+2025-09-29 15:31:57.351: 休息时间 15 秒
+2025-09-29 15:32:12.389: 休息时间结束
+2025-09-29 15:32:12.390: 休息结束
+2025-09-29 15:32:12.390: 开始基线测量 10 秒
+2025-09-29 15:32:13.883: 基线测量开始
+2025-09-29 15:32:23.915: 基线测量完成
+2025-09-29 15:32:23.998: Start playing D:\Emotion_Experiment\exp_session_li\18.mp4 (stimulus mode)
+2025-09-29 15:33:29.156: End playing D:\Emotion_Experiment\exp_session_li\18.mp4 (stimulus mode)
+2025-09-29 15:33:29.159: 等待鼠标点击重新播放视频
+2025-09-29 15:33:31.347: 开始标注模式播放
+2025-09-29 15:33:32.430: Start playing D:\Emotion_Experiment\exp_session_li\18.mp4 (annotation mode)
+2025-09-29 15:34:39.753: Stop video replay
+2025-09-29 15:34:39.753: End playing D:\Emotion_Experiment\exp_session_li\18.mp4 (annotation mode)
+2025-09-29 15:34:39.763: 开始15秒休息
+2025-09-29 15:34:39.763: 休息时间 15 秒
+2025-09-29 15:34:54.810: 休息时间结束
+2025-09-29 15:34:54.810: 休息结束
+2025-09-29 15:34:54.810: 开始基线测量 10 秒
+2025-09-29 15:34:59.116: 基线测量开始
+2025-09-29 15:35:09.147: 基线测量完成
+2025-09-29 15:35:09.228: Start playing D:\Emotion_Experiment\exp_session_li\19.mp4 (stimulus mode)
+2025-09-29 15:36:41.922: End playing D:\Emotion_Experiment\exp_session_li\19.mp4 (stimulus mode)
+2025-09-29 15:36:41.924: 等待鼠标点击重新播放视频
+2025-09-29 15:36:44.004: 开始标注模式播放
+2025-09-29 15:36:45.092: Start playing D:\Emotion_Experiment\exp_session_li\19.mp4 (annotation mode)
+2025-09-29 15:36:51.807: Stop video replay
+2025-09-29 15:36:51.807: End playing D:\Emotion_Experiment\exp_session_li\19.mp4 (annotation mode)
+2025-09-29 15:36:51.822: 开始15秒休息
+2025-09-29 15:36:51.822: 休息时间 15 秒
+2025-09-29 15:37:06.864: 休息时间结束
+2025-09-29 15:37:06.864: 休息结束
+2025-09-29 15:37:06.864: 开始基线测量 10 秒
+2025-09-29 15:37:10.004: 基线测量开始
+2025-09-29 15:37:20.036: 基线测量完成
+2025-09-29 15:37:20.113: Start playing D:\Emotion_Experiment\exp_session_li\20.mp4 (stimulus mode)
+2025-09-29 15:38:47.800: End playing D:\Emotion_Experiment\exp_session_li\20.mp4 (stimulus mode)
+2025-09-29 15:38:47.801: 等待鼠标点击重新播放视频
+2025-09-29 15:38:50.396: 开始标注模式播放
+2025-09-29 15:38:51.478: Start playing D:\Emotion_Experiment\exp_session_li\20.mp4 (annotation mode)
+2025-09-29 15:39:27.544: Stop video replay
+2025-09-29 15:39:27.559: End playing D:\Emotion_Experiment\exp_session_li\20.mp4 (annotation mode)
+2025-09-29 15:39:27.568: 开始15秒休息
+2025-09-29 15:39:27.569: 休息时间 15 秒
+2025-09-29 15:39:42.613: 休息时间结束
+2025-09-29 15:39:42.613: 休息结束
+2025-09-29 15:39:42.613: 开始基线测量 10 秒
+2025-09-29 15:39:45.300: 基线测量开始
+2025-09-29 15:39:55.330: 基线测量完成
+2025-09-29 15:39:55.410: Start playing D:\Emotion_Experiment\exp_session_li\21.mp4 (stimulus mode)
+2025-09-29 15:40:56.071: End playing D:\Emotion_Experiment\exp_session_li\21.mp4 (stimulus mode)
+2025-09-29 15:40:56.073: 等待鼠标点击重新播放视频
+2025-09-29 15:40:58.100: 开始标注模式播放
+2025-09-29 15:40:59.190: Start playing D:\Emotion_Experiment\exp_session_li\21.mp4 (annotation mode)
+2025-09-29 15:42:18.879: Stop video replay
+2025-09-29 15:42:18.879: End playing D:\Emotion_Experiment\exp_session_li\21.mp4 (annotation mode)
+2025-09-29 15:42:18.892: 开始15秒休息
+2025-09-29 15:42:18.892: 休息时间 15 秒
+2025-09-29 15:42:33.938: 休息时间结束
+2025-09-29 15:42:33.938: 休息结束
+2025-09-29 15:42:33.938: 开始基线测量 10 秒
+2025-09-29 15:42:36.076: 基线测量开始
+2025-09-29 15:42:46.107: 基线测量完成
+2025-09-29 15:42:46.188: Start playing D:\Emotion_Experiment\exp_session_li\22.mp4 (stimulus mode)
+2025-09-29 15:43:47.845: End playing D:\Emotion_Experiment\exp_session_li\22.mp4 (stimulus mode)
+2025-09-29 15:43:47.847: 等待鼠标点击重新播放视频
+2025-09-29 15:43:50.476: 开始标注模式播放
+2025-09-29 15:43:51.560: Start playing D:\Emotion_Experiment\exp_session_li\22.mp4 (annotation mode)
+2025-09-29 15:44:06.214: Stop video replay
+2025-09-29 15:44:06.215: End playing D:\Emotion_Experiment\exp_session_li\22.mp4 (annotation mode)
+2025-09-29 15:44:06.227: 开始15秒休息
+2025-09-29 15:44:06.227: 休息时间 15 秒
+2025-09-29 15:44:21.274: 休息时间结束
+2025-09-29 15:44:21.275: 休息结束
+2025-09-29 15:44:21.275: 开始基线测量 10 秒
+2025-09-29 15:44:24.028: 基线测量开始
+2025-09-29 15:44:34.060: 基线测量完成
+2025-09-29 15:44:34.145: Start playing D:\Emotion_Experiment\exp_session_li\23.mp4 (stimulus mode)
+2025-09-29 15:45:34.804: End playing D:\Emotion_Experiment\exp_session_li\23.mp4 (stimulus mode)
+2025-09-29 15:45:34.807: 等待鼠标点击重新播放视频
+2025-09-29 15:45:36.076: 开始标注模式播放
+2025-09-29 15:45:37.158: Start playing D:\Emotion_Experiment\exp_session_li\23.mp4 (annotation mode)
+2025-09-29 15:46:12.473: Stop video replay
+2025-09-29 15:46:12.473: End playing D:\Emotion_Experiment\exp_session_li\23.mp4 (annotation mode)
+2025-09-29 15:46:12.484: 开始15秒休息
+2025-09-29 15:46:12.485: 休息时间 15 秒
+2025-09-29 15:46:27.521: 休息时间结束
+2025-09-29 15:46:27.521: 休息结束
+2025-09-29 15:46:27.521: 开始基线测量 10 秒
+2025-09-29 15:46:29.509: 基线测量开始
+2025-09-29 15:46:39.541: 基线测量完成
+2025-09-29 15:46:39.622: Start playing D:\Emotion_Experiment\exp_session_li\24.mp4 (stimulus mode)
+2025-09-29 15:47:45.280: End playing D:\Emotion_Experiment\exp_session_li\24.mp4 (stimulus mode)
+2025-09-29 15:47:45.283: 等待鼠标点击重新播放视频
+2025-09-29 15:47:46.508: 开始标注模式播放
+2025-09-29 15:47:47.596: Start playing D:\Emotion_Experiment\exp_session_li\24.mp4 (annotation mode)
+2025-09-29 15:49:00.295: Stop video replay
+2025-09-29 15:49:00.296: End playing D:\Emotion_Experiment\exp_session_li\24.mp4 (annotation mode)
+2025-09-29 15:49:00.308: 开始15秒休息
+2025-09-29 15:49:00.308: 休息时间 15 秒
+2025-09-29 15:49:15.351: 休息时间结束
+2025-09-29 15:49:15.352: 休息结束
+2025-09-29 15:49:15.352: 开始基线测量 10 秒
+2025-09-29 15:49:16.852: 基线测量开始
+2025-09-29 15:49:26.882: 基线测量完成
+2025-09-29 15:49:27.392: Start playing D:\Emotion_Experiment\exp_session_li\25.mp4 (stimulus mode)
+2025-09-29 15:50:29.053: End playing D:\Emotion_Experiment\exp_session_li\25.mp4 (stimulus mode)
+2025-09-29 15:50:29.055: 等待鼠标点击重新播放视频
+2025-09-29 15:50:31.772: 开始标注模式播放
+2025-09-29 15:50:32.860: Start playing D:\Emotion_Experiment\exp_session_li\25.mp4 (annotation mode)
+2025-09-29 15:51:32.511: Stop video replay
+2025-09-29 15:51:32.511: End playing D:\Emotion_Experiment\exp_session_li\25.mp4 (annotation mode)
+2025-09-29 15:51:32.523: 开始15秒休息
+2025-09-29 15:51:32.524: 休息时间 15 秒
+2025-09-29 15:51:47.562: 休息时间结束
+2025-09-29 15:51:47.562: 休息结束
+2025-09-29 15:51:47.562: 开始基线测量 10 秒
+2025-09-29 15:51:48.852: 基线测量开始
+2025-09-29 15:51:58.882: 基线测量完成
+2025-09-29 15:51:58.965: Start playing D:\Emotion_Experiment\exp_session_li\26.mp4 (stimulus mode)
+2025-09-29 15:52:59.626: End playing D:\Emotion_Experiment\exp_session_li\26.mp4 (stimulus mode)
+2025-09-29 15:52:59.628: 等待鼠标点击重新播放视频
+2025-09-29 15:53:01.540: 开始标注模式播放
+2025-09-29 15:53:02.626: Start playing D:\Emotion_Experiment\exp_session_li\26.mp4 (annotation mode)
+2025-09-29 15:53:32.089: Stop video replay
+2025-09-29 15:53:32.089: End playing D:\Emotion_Experiment\exp_session_li\26.mp4 (annotation mode)
+2025-09-29 15:53:32.100: 开始15秒休息
+2025-09-29 15:53:32.101: 休息时间 15 秒
+2025-09-29 15:53:47.139: 休息时间结束
+2025-09-29 15:53:47.140: 休息结束
+2025-09-29 15:53:47.140: 开始基线测量 10 秒
+2025-09-29 15:53:49.220: 基线测量开始
+2025-09-29 15:53:59.253: 基线测量完成
+2025-09-29 15:53:59.339: Start playing D:\Emotion_Experiment\exp_session_li\27.mp4 (stimulus mode)
+2025-09-29 15:55:03.002: End playing D:\Emotion_Experiment\exp_session_li\27.mp4 (stimulus mode)
+2025-09-29 15:55:03.004: 等待鼠标点击重新播放视频
+2025-09-29 15:55:05.780: 开始标注模式播放
+2025-09-29 15:55:06.875: Start playing D:\Emotion_Experiment\exp_session_li\27.mp4 (annotation mode)
+2025-09-29 15:56:09.716: Stop video replay
+2025-09-29 15:56:09.716: End playing D:\Emotion_Experiment\exp_session_li\27.mp4 (annotation mode)
+2025-09-29 15:56:09.729: 开始15秒休息
+2025-09-29 15:56:09.729: 休息时间 15 秒
+2025-09-29 15:56:24.776: 休息时间结束
+2025-09-29 15:56:24.776: 休息结束
+2025-09-29 15:56:24.776: 开始基线测量 10 秒
+2025-09-29 15:56:26.637: 基线测量开始
+2025-09-29 15:56:36.666: 基线测量完成
+2025-09-29 15:56:36.750: Start playing D:\Emotion_Experiment\exp_session_li\28.mp4 (stimulus mode)
+2025-09-29 15:57:40.418: End playing D:\Emotion_Experiment\exp_session_li\28.mp4 (stimulus mode)
+2025-09-29 15:57:40.421: 等待鼠标点击重新播放视频
+2025-09-29 15:57:42.581: 开始标注模式播放
+2025-09-29 15:57:43.671: Start playing D:\Emotion_Experiment\exp_session_li\28.mp4 (annotation mode)
+2025-09-29 15:58:47.794: Stop video replay
+2025-09-29 15:58:47.794: End playing D:\Emotion_Experiment\exp_session_li\28.mp4 (annotation mode)
+2025-09-29 15:58:47.807: 开始15秒休息
+2025-09-29 15:58:47.807: 休息时间 15 秒
+2025-09-29 15:59:02.847: 休息时间结束
+2025-09-29 15:59:02.849: 休息结束
+2025-09-29 15:59:02.849: 开始基线测量 10 秒
+2025-09-29 15:59:05.653: 基线测量开始
+2025-09-29 15:59:15.685: 基线测量完成
+2025-09-29 15:59:15.774: Start playing D:\Emotion_Experiment\exp_session_li\29.mp4 (stimulus mode)
+2025-09-29 16:00:46.463: End playing D:\Emotion_Experiment\exp_session_li\29.mp4 (stimulus mode)
+2025-09-29 16:00:46.464: 等待鼠标点击重新播放视频
+2025-09-29 16:00:48.781: 开始标注模式播放
+2025-09-29 16:00:49.871: Start playing D:\Emotion_Experiment\exp_session_li\29.mp4 (annotation mode)
+2025-09-29 16:01:49.085: Stop video replay
+2025-09-29 16:01:49.085: End playing D:\Emotion_Experiment\exp_session_li\29.mp4 (annotation mode)
+2025-09-29 16:01:49.097: 开始15秒休息
+2025-09-29 16:01:49.098: 休息时间 15 秒
+2025-09-29 16:02:04.139: 休息时间结束
+2025-09-29 16:02:04.139: 休息结束
+2025-09-29 16:02:04.139: 开始基线测量 10 秒
+2025-09-29 16:02:06.901: 基线测量开始
+2025-09-29 16:02:16.934: 基线测量完成
+2025-09-29 16:02:17.024: Start playing D:\Emotion_Experiment\exp_session_li\30.mp4 (stimulus mode)
+2025-09-29 16:03:20.189: End playing D:\Emotion_Experiment\exp_session_li\30.mp4 (stimulus mode)
+2025-09-29 16:03:20.191: 等待鼠标点击重新播放视频
+2025-09-29 16:03:21.661: 开始标注模式播放
+2025-09-29 16:03:22.752: Start playing D:\Emotion_Experiment\exp_session_li\30.mp4 (annotation mode)
+2025-09-29 16:03:35.850: Stop video replay
+2025-09-29 16:03:35.851: End playing D:\Emotion_Experiment\exp_session_li\30.mp4 (annotation mode)
+2025-09-29 16:03:35.864: 实验结束
